@@ -1,0 +1,404 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 7119
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 34 788.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 16 Tf 19 TL 181.8298 0 Td (Project Design Phase) Tj T* -181.8298 0 Td ET
+Q
+Q
+q
+1 0 0 1 34 761.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 16 Tf 19 TL 155.1738 0 Td (Proposed Solution Template) Tj T* -155.1738 0 Td ET
+Q
+Q
+q
+1 0 0 1 37.6378 683.8898 cm
+q
+.960784 .960784 .960784 rg
+n 0 70 100 -70 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 56.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105 56.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (03 October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (Team ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105 48.5 cm
+Q
+q
+1 0 0 1 5 21.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105 21.5 cm
+q
+BT 1 0 0 1 0 1.7 Tm 9.5 TL /F1 7.8 Tf 0 0 0 rg (Implement Client Script & UI Policy \(Incident\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (2 Marks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 70 m 520 70 l S
+n 0 0 m 520 0 l S
+n 0 0 m 0 70 l S
+n 520 0 m 520 70 l S
+n 0 52.5 m 520 52.5 l S
+n 0 35 m 520 35 l S
+n 0 17.5 m 520 17.5 l S
+n 100 0 m 100 70 l S
+Q
+Q
+Q
+q
+1 0 0 1 34 673.8898 cm
+Q
+q
+1 0 0 1 34 648.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Proposed Solution Template) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34 632.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8.4 Tf 10.5 TL (Project team shall fill the following information in the proposed solution template.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34 626.3898 cm
+Q
+q
+1 0 0 1 37.6378 261.8898 cm
+q
+.827451 .827451 .827451 rg
+n 0 364.5 520 -19.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 350 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (S.No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40 350 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (Parameter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 185 350 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F2 7.8 Tf 9.5 TL (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 330.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40 321 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 11.2 Tm /F1 7.8 Tf 9.5 TL (Problem Statement \(Problem to be) Tj T* (solved\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 185 292.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 39.7 Tm /F1 7.8 Tf 9.5 TL (Incident records often require consistent and accurate data entry for effective triage, routing,) Tj T* (and resolution. Relying only on user awareness and manual checks can lead to incomplete,) Tj T* (inconsistent, or incorrect data being submitted. This can affect reporting accuracy, SLA) Tj T* (compliance, and overall service quality. The project addresses this by enforcing conditional field) Tj T* (behavior and validation directly at the ServiceNow user-interface level.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Idea / Solution description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 185 216 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 58.7 Tm /F1 7.8 Tf 9.5 TL -0.054214 Tw (The proposed solution uses ServiceNow UI Policies, UI Policy Actions, and Client Scripts on the) Tj T* 0 Tw (Incident table. The UI Policy makes Assignment group mandatory when Impact is High and) Tj T* (reverses the behavior when the condition is false. A UI Policy Action makes Urgency read-only) Tj T* (for High Impact incidents. An onChange Client Script automatically sets Urgency to High when) Tj T* (Impact is High. An onSubmit Client Script prevents saving a High Impact Incident when) Tj T* (Assigned To is empty. An onCellEdit Client Script blocks direct State changes through list) Tj T* (editing while allowing State updates through the Incident form.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 196.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40 196.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Novelty / Uniqueness) Tj T* ET
+Q
+Q
+q
+1 0 0 1 185 158.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 39.7 Tm /F1 7.8 Tf 9.5 TL (The implementation combines multiple client-side controls to enforce different Incident business) Tj T* (rules at the interface level. It demonstrates conditional mandatory enforcement, read-only field) Tj T* (control, automatic value population, save-time validation, and list-edit restriction using UI) Tj T* (Policies and three Client Script types: onChange, onSubmit, and onCellEdit. This provides a) Tj T* (lightweight and integrated way to control Incident data entry within ServiceNow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 139 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40 139 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Social Impact / Customer Satisfaction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 185 110.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.2 Tm /F1 7.8 Tf 9.5 TL (The solution improves data quality and consistency in Incident records by reducing incomplete) Tj T* (or invalid submissions. Users receive immediate field behavior and validation when conditions) Tj T* (are met. This supports more reliable Incident triage, routing, reporting, SLA-related processes,) Tj T* (and overall service quality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40 91 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Business Model \(Revenue Model\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 185 62.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.2 Tm /F1 7.8 Tf 9.5 TL (The source project document does not specify a direct revenue model or monetization) Tj T* (mechanism. The implementation is presented as a ServiceNow micro project demonstrating) Tj T* (practical configuration and client-side controls for Incident management. Therefore, no specific) Tj T* (revenue model is claimed from the source material.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 43 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40 43 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.7 Tm /F1 7.8 Tf 9.5 TL (Scalability of the Solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 185 5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 39.7 Tm /F1 7.8 Tf 9.5 TL (The source describes the solution as lightweight, efficient, and easy to implement for) Tj T* (short-duration micro projects. The same pattern of UI Policies, UI Policy Actions, and Client) Tj T* (Scripts can be applied to Incident form and list behavior as additional business rules are) Tj T* (defined. The source does not provide a quantified scalability limit or deployment scale, so no) Tj T* (specific capacity claim is made.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.4 w
+n 0 364.5 m 520 364.5 l S
+n 0 0 m 520 0 l S
+n 0 0 m 0 364.5 l S
+n 520 0 m 520 364.5 l S
+n 0 345 m 520 345 l S
+n 0 287.5 m 520 287.5 l S
+n 0 211 m 520 211 l S
+n 0 153.5 m 520 153.5 l S
+n 0 105.5 m 520 105.5 l S
+n 0 57.5 m 520 57.5 l S
+n 35 0 m 35 364.5 l S
+n 180 0 m 180 364.5 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F1-0 7.8 Tf
+9.36 TL
+ET
+BT
+1 0 0 1 142.6378 721.9752 Tm
+(SWTID\0552026\0555003) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000405 00000 n 
+0000007576 00000 n 
+0000007683 00000 n 
+0000007790 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7902
+%%EOF
